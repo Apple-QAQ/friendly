@@ -9,4 +9,6 @@ Kleebot(一款好用的群bot): [https://kleebot.glous.xyz/](https://kleebot.glo
 
 neo: [https://valigarmanda.top/](https://valigarmanda.top/)
 
+lovelycat: [https://lovelycatv.cn/](https://lovelycatv.cn/)
+
 **希望其他人也加入我的友链哦～**
