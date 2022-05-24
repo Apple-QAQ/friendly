@@ -7,7 +7,7 @@ llozi: [https://blog.llozi.top/](https://blog.llozi.top/)
 
 Kleebot(一款好用的群bot): [https://kleebot.glous.xyz/](https://kleebot.glous.xyz/)
 
-shenmo: [https://shenmo7192.gitee.io/](https://https://shenmo7192.gitee.io/)
+shenmo: [https://shenmo7192.gitee.io/](https://shenmo7192.gitee.io/)
 
 neo: [https://valigarmanda.top/](https://valigarmanda.top/)
 
