@@ -5,6 +5,8 @@ llozi: [https://blog.llozi.top/](https://blog.llozi.top/)
 
 九份礼物: [http://archblog.top/](http://archblog.top/)
 
+Gaoice: [https://home.gaoice.top/](https://home.gaoice.top/)
+
 Kleebot(一款好用的群bot): [https://kleebot.glous.xyz/](https://kleebot.glous.xyz/)
 
 shenmo: [https://shenmo7192.gitee.io/](https://shenmo7192.gitee.io/)
