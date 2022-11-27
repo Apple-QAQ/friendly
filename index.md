@@ -15,4 +15,6 @@ neo: [https://valigarmanda.top/](https://valigarmanda.top/)
 
 lovelycat: [https://lovelycatv.cn/](https://lovelycatv.cn/)
 
+柚子: [https://blog.yzzi.icu/](https://blog.yzzi.icu/)
+
 **希望其他人也加入我的友链哦～**
